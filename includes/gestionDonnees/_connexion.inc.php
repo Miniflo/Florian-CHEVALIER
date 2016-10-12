@@ -6,7 +6,7 @@
 $hote = "localhost";
 $login = "festival";
 $mdp = "secret";
-$bd = "festival";
+$bd = "Festival";
 $dsn = "mysql:host=$hote;dbname=$bd";
 $connexion = null;
 /**
